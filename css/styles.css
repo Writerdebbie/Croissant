@@ -1,18 +1,26 @@
 body {
-  background-color: rgba(61, 59, 59, 0.938);
+  max-width: 100%;
+  background-color: #3F1806;
+  text-align: center;
 }
 h1 {
+  
+ text-transform:uppercase;
   text-align: center;
-  margin-top: 25px;
+  font-size: 48px;
   padding: 0 auto;
   margin: 15px auto;
   color: #fff;
+  font-weight: bold;
+}
+hr{
+  color: red;
 }
 h2,
 h3 {
   text-align: center;
   color: #fff;
-  font-size: 20px;
+  font-size: 25px;
 }
 img {
   display: block;
